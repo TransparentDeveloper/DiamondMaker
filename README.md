@@ -9,6 +9,9 @@
 1. Visual Studio Code를 설치합니다.
 2. 본 레포지토리를 클론하거나 zip 파일로 다운로드하여 압축을 해제합니다.
 3. 터미널 또는 명령 프롬프트에서 DiamondMader 프로그램이 있는 디렉토리로 이동합니다.
+``` 
+cd ./DiamondMaker
+```
 4. 다음 명령어를 입력하여 프로그램을 실행합니다.
 ``` 
 python main.py 
