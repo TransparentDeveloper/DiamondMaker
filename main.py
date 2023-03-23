@@ -1,6 +1,6 @@
+sign = '#' # 사용자 2의 코드를 사용합니다.
+maximum = 16; # 사용자 1의 코드를 사용합니다.
 
-sign = '#'
-maximum = 19;
 
 print("Enter N, the length of the horizontal diagonal of the diamond, according to the conditions below.")
 print(" Condition1: ( N must be a odd. )")
