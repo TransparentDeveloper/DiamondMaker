@@ -1,7 +1,7 @@
 # DiamondMaker
 _* (GitHub의 기능조사 및 코드 충돌 시 해결 실습을 위해 만들어진  파일럿 프로젝트 입니다.)_
 
-홀수를 입력하여, 그 값큼의 가로 대각선의 길이를 갖는 마름모 만들 수 있습니다.
+홀수를 입력하여, 그 값만큼의 가로 대각선의 길이를 갖는 마름모 만들 수 있습니다.
 
 ## 개발 환경 및 사용 언어
 - Python 3.8
@@ -30,7 +30,6 @@ python main.py
 ### _정상입력 :_
 1)
 ![image](https://user-images.githubusercontent.com/50646145/227203655-5515c30f-d253-475e-a671-fc952dfc6d2b.png)
-
 2)
 ![image](https://user-images.githubusercontent.com/50646145/227203842-736751c4-a2cd-4840-9eaf-66db8fd6c6be.png)
 ### _짝수입력 :_
@@ -38,6 +37,9 @@ python main.py
 
 ### _범위를 벗어난 경우:_
 ![image](https://user-images.githubusercontent.com/50646145/227205759-3a610b58-5312-49e6-aa26-b784808ab503.png)
+### _입력 타입이 int가 아닌 경우_:
+![image](https://user-images.githubusercontent.com/50646145/227208323-6498ce47-6c5a-491a-9e4a-edf33ecc0249.png)
+
 
 
 ## 라이선스
