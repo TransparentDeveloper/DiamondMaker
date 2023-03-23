@@ -34,10 +34,10 @@ python main.py
 2)
 ![image](https://user-images.githubusercontent.com/50646145/227203842-736751c4-a2cd-4840-9eaf-66db8fd6c6be.png)
 ### _짝수입력 :_
-![image](https://user-images.githubusercontent.com/50646145/227204011-8026060d-e5cb-4b94-913e-b998a469a8e8.png)
+![image](https://user-images.githubusercontent.com/50646145/227205567-cae17f40-d7e5-4abc-91c9-2d3f400cbb43.png)
 
 ### _범위를 벗어난 경우:_
-![image](https://user-images.githubusercontent.com/50646145/227204102-c838d7f6-cc06-408b-a8db-920f3ee98218.png)
+![image](https://user-images.githubusercontent.com/50646145/227205759-3a610b58-5312-49e6-aa26-b784808ab503.png)
 
 
 ## 라이선스
