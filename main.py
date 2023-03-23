@@ -9,9 +9,9 @@ N = int(input("N : "))
 print()
 
 if (N <= 0 or N >= maximum):
-    print("Condition 1 was violated.")
-elif N % 2 == 0:
     print("Condition 2 was violated.")
+elif N % 2 == 0:
+    print("Condition 1 was violated.")
 else:
     print("Generates diamonds..")
     print()
