@@ -1,6 +1,6 @@
 
 sign = '*'
-maximum = 20;
+maximum = 16;
 
 print("Enter N, the length of the horizontal diagonal of the diamond, according to the conditions below.")
 print(" Condition1: ( N must be a odd. )")
