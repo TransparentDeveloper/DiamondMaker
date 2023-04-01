@@ -27,17 +27,18 @@ python main.py
 
 ## 실행화면
 
-### _정상입력 :_
-1)
+### _1. 정상입력 :_
+ 
 ![image](https://user-images.githubusercontent.com/50646145/227203655-5515c30f-d253-475e-a671-fc952dfc6d2b.png)
-2)
 ![image](https://user-images.githubusercontent.com/50646145/227203842-736751c4-a2cd-4840-9eaf-66db8fd6c6be.png)
-### _짝수입력 :_
-![image](https://user-images.githubusercontent.com/50646145/227205567-cae17f40-d7e5-4abc-91c9-2d3f400cbb43.png)
 
-### _범위를 벗어난 경우:_
+### _2. 짝수입력 :_
+![image](https://user-images.githubusercontent.com/50646145/227205567-cae17f40-d7e5-4abc-91c9-2d3f400cbb43.png)
+ 
+### _3. 범위를 벗어난 경우:_
 ![image](https://user-images.githubusercontent.com/50646145/227205759-3a610b58-5312-49e6-aa26-b784808ab503.png)
-### _입력 타입이 int가 아닌 경우_:
+
+### _4. 입력 타입이 int가 아닌 경우_:
 ![image](https://user-images.githubusercontent.com/50646145/227208323-6498ce47-6c5a-491a-9e4a-edf33ecc0249.png)
 
 
